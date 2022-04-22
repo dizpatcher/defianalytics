@@ -4,7 +4,7 @@ from fake_useragent import UserAgent
 import csv
 from datetime import datetime
 
-BIT_QUERY_API_KEY = 'BQYnBFaLgG5LV3tEYQtK4EFmQ0XWU08K'
+BIT_QUERY_API_KEY = ''
 ES_ADDR_URL = 'https://etherscan.io/address/'
 
 
